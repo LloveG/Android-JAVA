@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StudentSignin-master-a164edeaa71ff075324d4b2eaf1e3eb7b19370d7StudentSignin.git.iml" filepath="$PROJECT_DIR$/StudentSignin-master-a164edeaa71ff075324d4b2eaf1e3eb7b19370d7StudentSignin.git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

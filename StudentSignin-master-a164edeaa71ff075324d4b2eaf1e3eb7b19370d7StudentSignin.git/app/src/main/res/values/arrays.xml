@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="user_type" >
+        <item>学  生</item>
+        <item>教  师</item>
+        <item>辅导员</item>
+    </string-array>
+
+    <string-array name="signin_type" >
+        <item>上课</item>
+        <item>晚归</item>
+        <item>活动</item>
+    </string-array>
+    <string-array name="signin_shangke" >
+        <item>高等数学</item>
+        <item>大学物理</item>
+        <item>西方哲学</item>
+        <item>中国近现代史纲要</item>
+    </string-array>
+    <string-array name="signin_wangui" >
+        <item>晚归1</item>
+        <item>晚归2</item>
+        <item>晚归3</item>
+    </string-array>
+    <string-array name="signin_huodong" >
+        <item>周一扫雪</item>
+        <item>周二扫雷</item>
+        <item>周三扫二维码</item>
+    </string-array>
+
+    <string-array name="dayoff_review_type" >
+        <item>同意</item>
+        <item>拒绝</item>
+    </string-array>
+
+    <string-array name="user_sex" >
+        <item> 男 </item>
+        <item> 女 </item>
+        <item>未知</item>
+    </string-array>
+
+</resources>
